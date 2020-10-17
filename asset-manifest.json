@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dungeon-world-cb/static/css/main.4b675743.chunk.css",
+    "main.js": "/dungeon-world-cb/static/js/main.0c8951a8.chunk.js",
+    "main.js.map": "/dungeon-world-cb/static/js/main.0c8951a8.chunk.js.map",
+    "runtime-main.js": "/dungeon-world-cb/static/js/runtime-main.4f217bc6.js",
+    "runtime-main.js.map": "/dungeon-world-cb/static/js/runtime-main.4f217bc6.js.map",
+    "static/js/2.dd98daf7.chunk.js": "/dungeon-world-cb/static/js/2.dd98daf7.chunk.js",
+    "static/js/2.dd98daf7.chunk.js.map": "/dungeon-world-cb/static/js/2.dd98daf7.chunk.js.map",
+    "index.html": "/dungeon-world-cb/index.html",
+    "precache-manifest.bd1c91941726e7019fac7a9720b921da.js": "/dungeon-world-cb/precache-manifest.bd1c91941726e7019fac7a9720b921da.js",
+    "service-worker.js": "/dungeon-world-cb/service-worker.js",
+    "static/css/main.4b675743.chunk.css.map": "/dungeon-world-cb/static/css/main.4b675743.chunk.css.map",
+    "static/js/2.dd98daf7.chunk.js.LICENSE.txt": "/dungeon-world-cb/static/js/2.dd98daf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f217bc6.js",
+    "static/js/2.dd98daf7.chunk.js",
+    "static/css/main.4b675743.chunk.css",
+    "static/js/main.0c8951a8.chunk.js"
+  ]
+}
