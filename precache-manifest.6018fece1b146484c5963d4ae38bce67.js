@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab5470470921d696b396611ba230b6b1",
+    "revision": "18c6f8213b7399ff6829dec458e20e13",
     "url": "/dungeon-world-cb/index.html"
   },
   {
-    "revision": "f2467a92314c04753868",
+    "revision": "99792bc17fe6f3ba6d4d",
     "url": "/dungeon-world-cb/static/css/main.4b675743.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dungeon-world-cb/static/js/2.dd98daf7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2467a92314c04753868",
-    "url": "/dungeon-world-cb/static/js/main.0c8951a8.chunk.js"
+    "revision": "99792bc17fe6f3ba6d4d",
+    "url": "/dungeon-world-cb/static/js/main.ed247e93.chunk.js"
   },
   {
     "revision": "732d349e3742b5feb678",
